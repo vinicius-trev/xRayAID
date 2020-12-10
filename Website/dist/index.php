@@ -227,7 +227,7 @@
                         class="fab fa-facebook-f"></i></a>
                 <a class="mx-2" href="https://www.instagram.com/xrayaid/" target="_blank"><i
                         class="fab fa-instagram"></i></a>
-                <a class="mx-2" href="https://github.com/vinicius-trev/TCC" target="_blank"><i
+                <a class="mx-2" href="https://github.com/vinicius-trev/xRayAID" target="_blank"><i
                         class="fab fa-github"></i></a>
             </div>
         </div>
