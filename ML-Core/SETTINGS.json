@@ -1,0 +1,14 @@
+{
+	"TRAIN_RAW_DATA_DIR" : "../Datasets/RSNA-Pneumonia-Challenge/stage_2_train_images",
+	"TEST_RAW_DATA_DIR" : "../Datasets/RSNA-Pneumonia-Challenge/stage_2_test_images",
+	"TRAIN_CLEAN_DATA_DIR" : "../Datasets/RSNA-Pneumonia-Challenge/stage_2_train_images_png",
+	"TEST_CLEAN_DATA_DIR" : "../Datasets/RSNA-Pneumonia-Challenge/stage_2_test_images_png",
+
+	"TRAINING_SPLIT_DIR" : "training_splits",
+
+	"DETAILED_CLASS_INFO" : "../Datasets/RSNA-Pneumonia-Challenge/stage_2_detailed_class_info.csv",
+	"TRAIN_LABELS" : "../Datasets/RSNA-Pneumonia-Challenge/stage_2_train_labels.csv",
+
+	"CLASSIFICATION_WEIGHTS_DIR" : "weights/weights_retrained",
+ 	"CLASSIFICATION_RESULTS_DIR" : "classification/results",
+}
